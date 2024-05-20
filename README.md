@@ -10,10 +10,10 @@ This repository contains solutions to various problem-solving questions from Lee
 
 | Problem List              | Difficulty |
 |---------------------------|------------|
-| [Two Sum](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/001.%20Two%20Sum.js)                | Easy       |
-| [Palindrome Number](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/009.%20Palindrome%20Number.js) | Easy       |
-| [Roman to Integer](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/013.%20Roman%20to%20Integer.js) | Easy       |
-| [Longest Common Prefix](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/014.%20Longest%20Common%20Prefix.js) | Easy       |
-| [Valid Parentheses](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/020.%20Valid%20Parentheses.js) | Easy       |
+| 001. [Two Sum](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/001.%20Two%20Sum.js)                | Easy       |
+| 009. [Palindrome Number](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/009.%20Palindrome%20Number.js) | Easy       |
+| 013. [Roman to Integer](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/013.%20Roman%20to%20Integer.js) | Easy       |
+| 014. [Longest Common Prefix](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/014.%20Longest%20Common%20Prefix.js) | Easy       |
+| 020. [Valid Parentheses](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/blob/main/Easy/020.%20Valid%20Parentheses.js) | Easy       |
 
 ![1st Day Progress](https://github.com/ZeinabAbdelghaffar/LeetCodeProblemSolving-JS/assets/87963230/9b5809d4-4a78-4610-85e4-3a135e816b26)
