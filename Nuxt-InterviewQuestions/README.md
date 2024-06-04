@@ -175,4 +175,3 @@ The plugin system in Nuxt.js allows you to extend the functionality of Vue.js by
 - [Vuex Documentation](https://vuex.vuejs.org/)
 - [Axios Documentation](https://axios-http.com/docs/intro)
 - [Official Nuxt.js GitHub Repository](https://github.com/nuxt/nuxt.js)
-```
